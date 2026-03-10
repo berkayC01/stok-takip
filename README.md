@@ -8,3 +8,8 @@ Bu repoda, FastAPI backend ve Next.js tabanlı React frontend iskeleti bulunmakt
 - `frontend/` - Next.js uygulaması
 
 Her dizin içerisinde kurulum ve çalıştırma talimatları için kendi README dosyalarını inceleyebilirsiniz.
+
+
+## Ürün Planlama Dokümanları
+
+- [ExpireTrack Mobil Uygulama Tam Ekran Listesi](docs/expiretrack-mobile-screen-list.md)
